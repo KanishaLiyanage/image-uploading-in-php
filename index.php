@@ -44,6 +44,9 @@
 
         </form>
     </div>
+
+    <a href="gallery.php"><h3>go to gallery</h3></a>
+
 </body>
 
 </html>
